@@ -10,6 +10,12 @@
 
 ---
 
+## ✨ APP Screenshots
+
+![Uploading image.png…]()
+
+
+---
 ## ✨ Overview
 
 **BrainMaster** is a state-of-the-art Flutter quiz application built with an ultra-premium, minimalist design aesthetic. It fetches dynamic trivia questions across multiple general knowledge categories from the **Open Trivia Database (OpenTDB)** API and challenges users with a high-speed, engaging interface.

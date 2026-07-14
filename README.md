@@ -13,7 +13,8 @@
 ## ✨ APP Screenshots
 
 
-<img width="900" height="615" alt="image" src="https://github.com/user-attachments/assets/4220a11e-beb1-4980-94d6-14fc565891e3" />
+<img width="935" height="614" alt="image" src="https://github.com/user-attachments/assets/e1bcfce5-7b39-4abc-b679-07339734fefe" />
+
 
 
 ---
